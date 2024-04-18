@@ -109,8 +109,11 @@ header {
 /*-------------------------------------Footer */
 footer {
     background-color: #525252;
-    color: #fafafa;
+    color: #f4f4f4;
     min-height: 120px;
     margin: 0;
+}
+.inline-block {
+    display: inline-block;
 }
 

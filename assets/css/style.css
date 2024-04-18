@@ -35,7 +35,7 @@ h1, h2, h3,h4 {
     color: #fafafa;
 }
 .row-table {
-    display: block;
+    display: table;
 }
 .section-column {
     display: table-cell;
@@ -60,7 +60,7 @@ header {
     background: url('../images/rosie.jpg');
     background-position: center;
     background-repeat: no-repeat;
-    background-repeat: cover;
+    background-size: cover;
     min-height: 360px;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
@@ -129,7 +129,7 @@ header {
 /*-------------------------------------Footer */
 footer {
     background-color: #525252;
-    color: #f4f4f4;
+    color: #fafafa;
     min-height: 120px;
     margin: 0;
 }
